@@ -1,0 +1,25 @@
+
+/*RESET*/
+body{ 
+   background-color: #f15754; /*cor primaria*/
+}
+
+#listaMenu{
+    background-color:rgb(255,0,255);
+}
+
+.fundo-azul{
+    background-color: #fff;
+    border: 2px dashed black;
+}
+
+/*RESET*/   
+header,footer{
+    color: orange;
+    background-color:purple;
+}
+
+article{
+color: green;
+
+}
